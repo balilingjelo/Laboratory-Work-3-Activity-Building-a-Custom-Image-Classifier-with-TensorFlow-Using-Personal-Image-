@@ -42,3 +42,11 @@ When working with my own data set, several problems have arisen, such as the low
 
 Data augmentation is also helpful to the model as it increases the size and variety of the data. Data augmentation is a process whereby the model is given more varied data to work with by creating different versions of already existing images. This increases the variety of the data and reduces overfitting and increases the accuracy of the model.
 
+# 5. Application
+○ Suggest a real-world application for your trained model.
+
+Is to assist people with everyday activities involving images. The model can be applied to security cameras to detect suspicious activities, hospitals to assist doctors with images, factories to inspect the quality of products, or even applications on phones to recognize objects with the camera. The model can assist people to make quicker and correct decisions by rapidly scanning images.
+
+○ How can this system be integrated into a mobile or web application?
+
+This system can be added to a mobile or web app so people can easily use it in their daily lives. Users simply take a photo or upload an image, and the app sends it to the system to be analyzed. After processing, the app shows the result in a clear and easy-to-understand way. This makes the technology convenient, fast, and accessible anytime, anywhere.
